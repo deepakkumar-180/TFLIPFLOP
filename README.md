@@ -46,12 +46,14 @@ module T_FLIP_FLOP(
     end
 endmodule
 ```
-RTL LOGIC FOR T_FLIPFLOP:[Uploading gate.pdf…]()
+RTL LOGIC FOR T_FLIPFLOP:[gate.pdf](https://github.com/user-attachments/files/24150910/gate.pdf)
 
 
 
 
-WAVEFORM:[Uploading wave.pdf…]()
+
+WAVEFORM:[wave.pdf](https://github.com/user-attachments/files/24150912/wave.pdf)
+
 
 
 
