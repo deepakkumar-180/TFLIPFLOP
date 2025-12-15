@@ -52,7 +52,8 @@ RTL LOGIC FOR T_FLIPFLOP:[gate.pdf](https://github.com/user-attachments/files/24
 
 
 
-WAVEFORM:[wave.pdf](https://github.com/user-attachments/files/24150912/wave.pdf)
+WAVEFORM:[wave1.pdf](https://github.com/user-attachments/files/24170117/wave1.pdf)
+
 
 
 
